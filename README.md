@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>
+  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+</h1>
+
+<p align="center">
+  <img src="https://readme.andyruwruw.com/api/skills">
+</p>
