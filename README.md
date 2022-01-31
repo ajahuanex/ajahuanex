@@ -1,5 +1,5 @@
- <img src="./images/Web-Header-Background.svg" width="800" height="400">
- <img src='./images/Live-Background.svg' width='800' height='300'>
+ <img src="./images/Web-Header-Background.svg" width="1200" height="600">
+ <img src='./images/Live-Background.svg' width='1200' height='400'>
 ### Hi there 👋
 
 <!--
