@@ -1,4 +1,4 @@
- <img src='./images/Live-Background.svg' width='1200' height='300'>
+ <img src='./images/Live-Background.svg' width='1250' height='350'>
 ### Hi there 👋
 
 <!--
